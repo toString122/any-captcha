@@ -1,0 +1,40 @@
+{
+  "texts": [
+    "resources/corpus/common_chinese.txt"
+  ],
+  "fonts": [
+    "resources/font/DejaVuSansYuanTiMono-Italic.TTF"
+  ],
+  "sizes": [
+    37
+  ],
+  "colors": [
+    "0xb59fe5",
+    "0x69c4d9",
+    "0xe57978",
+    "0x79b56d",
+    "0x85f9f6",
+    "0xfe9b8c",
+    "0xee83f1",
+    "0x6a727b",
+    "0xe7798d",
+    "0x1ffdb8",
+    "0xc5c583",
+    "0x7cb6fa"
+  ],
+  "bgs": [
+    "0x0f2320"
+  ],
+  "rotate": 40,
+  "num": 15,
+  "dot": 0,
+  "curve": 0,
+  "width": 736,
+  "height": 352,
+  "align": 2,
+  "offset_ver": 200,
+  "offset_hor": 200,
+  "char_tran": [
+    5.97
+  ]
+}
